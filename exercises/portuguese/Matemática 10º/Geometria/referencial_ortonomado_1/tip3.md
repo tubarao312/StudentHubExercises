@@ -1,2 +1,2 @@
-## Example Tip #2
+## Example Tip #3
 You're joking right?
