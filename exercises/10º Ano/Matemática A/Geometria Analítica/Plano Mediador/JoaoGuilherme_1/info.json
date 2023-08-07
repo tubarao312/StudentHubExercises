@@ -1,0 +1,10 @@
+{
+    "author": "JoaoGuilherme",
+    "difficulty": 4,
+    "answers": [
+        "(0, 0, 0)",
+        "(0, 0, 1)",
+        "(0, 1, 0)",
+        "(0, 1, 1)"
+    ]
+}

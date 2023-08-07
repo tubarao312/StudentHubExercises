@@ -1,1 +1,0 @@
-# Matemática 10º Ano
