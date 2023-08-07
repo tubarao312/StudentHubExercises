@@ -1,0 +1,7 @@
+name = 'PortalExercises
+version = "0.1.0"
+description = "Open source repository to store exercises."
+license = "MIT"
+authors = [
+    "Joao Guilherme joaommguilherme@tecnico.ulisboa.pt"
+]
