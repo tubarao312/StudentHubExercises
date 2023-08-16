@@ -1,0 +1,1 @@
+Vê quando é que a funcao é positiva
