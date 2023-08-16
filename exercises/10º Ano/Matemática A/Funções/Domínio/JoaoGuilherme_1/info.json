@@ -1,0 +1,10 @@
+{
+    "author": "JoaoGuilherme",
+    "difficulty": 1,
+    "answers": [
+        "R+ U {0}",
+        "R+",
+        "R-",
+        "{1,2,3}"
+    ]
+}
