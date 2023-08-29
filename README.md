@@ -1,4 +1,4 @@
-# PortalExercises
+# Student Hub
 
 ## Como fazer uma submissão?
 1. Devem criar uma conta no [GitHub](https://github.com), depois de criada a conta abram o link para o [editor de exercícios](https://vscode.dev/github/tubarao312/PortalExercises).
