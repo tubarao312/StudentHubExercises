@@ -1,0 +1,1 @@
+## Regras operatórias indicam que na multiplicação de potências de base igual, os seus expoentes são somados. Na divisão o contrário também ocorre. $ \left( -\frac{1}{2} \right)^{5+3-6}= \left( -\frac{1}{2} \right)^{2} $. 
