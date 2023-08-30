@@ -1,0 +1,1 @@
+O grau do polinómio resultante de A(x) × B(x) é igual ao termo de maior grau que se obtém sumando os graus dos monómios pela propriedade distributiva da multiplicação.
