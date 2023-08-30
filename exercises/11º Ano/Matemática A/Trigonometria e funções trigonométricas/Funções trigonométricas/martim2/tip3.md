@@ -1,0 +1,1 @@
+Aplica $\sin{(x)}^2+\cos{(x)}^2 = 1$ para saberes o valor de $\sin{\theta}$ e aplicares em h($\theta$)
