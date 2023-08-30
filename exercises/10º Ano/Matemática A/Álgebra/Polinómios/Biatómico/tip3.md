@@ -1,0 +1,1 @@
+Cmo n>3, então substituís n por um número superior a 3, e verás qual dos graus sempre resulta no maior número.
