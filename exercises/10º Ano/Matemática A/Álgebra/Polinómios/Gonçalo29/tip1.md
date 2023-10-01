@@ -1,0 +1,7 @@
+  Como  Q(x) tem grau 3 
+
+ Assim, podemos concluir que: 
+
+  -  T(x) é de grau 6
+
+  Desta forma concluímos que a opção certa é a B)
