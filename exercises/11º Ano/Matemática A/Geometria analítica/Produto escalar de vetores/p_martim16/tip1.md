@@ -1,0 +1,1 @@
+A reta r é definida pela equação $(x,y,z) =(0,-4,1) +y(2,-1,m) , y  \in R$  e $m \in R$ , portanto é um vetor diretor da reta r, $\vec {r} (2,-1,m)$.

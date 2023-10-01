@@ -1,0 +1,1 @@
+Por outro lado, tem-se que a reta r é tangente à circunferência no ponto A, portanto é perpendicular ao segmento de reta [AC]. Assim, sendo P(x,y) um ponto qualquer da reta r, a sua equação é dada por $\vec{AP} \cdot \vec{AC}=0$

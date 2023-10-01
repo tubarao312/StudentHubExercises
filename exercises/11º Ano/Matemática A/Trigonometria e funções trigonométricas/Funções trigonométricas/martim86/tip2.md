@@ -1,0 +1,1 @@
+Agora, adicione a parte constante $\frac{1}{2}$ a essa faixa de valores. Isso deslocará a faixa para cima ou para baixo, mas ainda estará limitada entre $\frac{1}{2} - \frac{\sqrt{2}}{2}$ e $\frac{1}{2} + \frac{\sqrt{2}}{2}$.

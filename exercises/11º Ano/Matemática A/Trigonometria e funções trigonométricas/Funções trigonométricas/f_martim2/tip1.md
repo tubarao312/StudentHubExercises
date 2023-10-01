@@ -1,0 +1,1 @@
+ A função seno $y=\sin{(ax)}$, tem um período de $\dfrac{2\pi}{a}$

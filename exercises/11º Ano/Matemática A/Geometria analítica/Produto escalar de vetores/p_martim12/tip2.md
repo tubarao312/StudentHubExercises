@@ -1,0 +1,1 @@
+[CA] e [CB] são raios da esfera

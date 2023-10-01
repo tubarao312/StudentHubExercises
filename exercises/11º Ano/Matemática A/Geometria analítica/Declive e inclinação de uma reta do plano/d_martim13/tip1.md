@@ -1,0 +1,1 @@
+Retas verticais não têm declive logo a resposta correta é a D

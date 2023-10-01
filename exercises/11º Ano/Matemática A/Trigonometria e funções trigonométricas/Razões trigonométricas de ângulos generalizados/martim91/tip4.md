@@ -1,0 +1,1 @@
+$\dfrac{\sin{(2340◦ + x)} − 2\cos{(4230◦ − x)}}{\sin{(810◦ + x)}}=\dfrac{−\sin{x} + 2\sin{x}}{\cos{x}}=\tan{x}$

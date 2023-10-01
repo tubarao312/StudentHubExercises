@@ -1,0 +1,1 @@
+$\alpha=\tan^{-1}(\sqrt{3})=\dfrac{\pi}{3}$

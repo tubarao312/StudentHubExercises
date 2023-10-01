@@ -1,0 +1,1 @@
+$\hat{HFE}=\arccos{\dfrac{31}{70}}\approx64º$

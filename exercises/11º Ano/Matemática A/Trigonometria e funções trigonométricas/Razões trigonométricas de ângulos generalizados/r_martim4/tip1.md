@@ -1,0 +1,1 @@
+$P = \bar{OP}+\bar{OQ}+\bar{QP}$

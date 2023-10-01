@@ -1,0 +1,1 @@
+$\vec {CB} \cdot \vec {CA} = ||\vec {CB}|| \times ||\vec {CA}|| \times \cos{⁡( \hat{\vec {CB} \space \vec {CA}})}$

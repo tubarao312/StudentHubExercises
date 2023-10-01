@@ -1,0 +1,1 @@
+A reta de equações paramétricas $\begin{cases} x=4 \\ y=2 \\ z=-5 \end{cases}$ tem a direção do vetor $\vec{p}(4,2,-5)$

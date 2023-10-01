@@ -1,0 +1,1 @@
+$\bar{OA}=\bar{OC}+\bar{CA}$

@@ -1,0 +1,1 @@
+$||\vec{BA}||=||\vec{BC}||=lado=\dfrac{20}{5}=4$

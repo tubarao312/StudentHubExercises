@@ -1,0 +1,1 @@
+$\hat{\vec {CB} \space \vec {CA}}=180º$

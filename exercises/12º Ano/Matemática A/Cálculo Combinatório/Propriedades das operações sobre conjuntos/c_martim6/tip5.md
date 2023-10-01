@@ -1,0 +1,1 @@
+$\dfrac{P(A\cap B)}{P(A)}=\dfrac{4}{6}$

@@ -1,0 +1,1 @@
+$\sin{(\sqrt{10}\tau+\sqrt{10}x-\dfrac{\pi}{3})}=\sin{(\sqrt{10}x-\dfrac{\pi}{3})}$

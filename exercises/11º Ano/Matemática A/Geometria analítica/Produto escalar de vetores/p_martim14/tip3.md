@@ -1,0 +1,1 @@
+$\theta = \hat{CBI}=140- \dfrac{180-140}{2} =120°=\dfrac{2\pi}{3}rad$

@@ -1,0 +1,1 @@
+$\bar{OC}+\bar{CA}=\bar{OC}+\bar{BC}$

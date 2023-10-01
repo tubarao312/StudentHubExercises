@@ -1,0 +1,1 @@
+$_{1}^{3}\textrm{C} \times _{1}^{2}\textrm{C} \times _{6}^{10}\textrm{C} \times 6!  \times _{1}^{2}\textrm{C} \times 4! = 43 545 600$

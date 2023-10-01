@@ -1,0 +1,3 @@
+Número de casos possíveis: $_{5}^{52}\textrm{C}$
+
+Número de casos favoráveis: $_{5}^{52}\textrm{C}-_{5}^{24}\textrm{C}-_{4}^{24}\textrm{C} \times _{1}^{28}\textrm{C}$

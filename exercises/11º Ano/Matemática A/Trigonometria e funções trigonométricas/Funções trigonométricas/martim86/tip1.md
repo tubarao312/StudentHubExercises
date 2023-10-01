@@ -1,0 +1,1 @@
+Considere a parte que envolve o seno: $\frac{\sqrt{2}}{2} \sin(2x)$. Como mencionado anteriormente, o seno ($\sin$) está limitado entre -1 e Portanto, o termo $\frac{\sqrt{2}}{2} \sin(2x)$ também está limitado entre $-\frac{\sqrt{2}}{2}$ e $\frac{\sqrt{2}}{2}$.

@@ -1,0 +1,1 @@
+Como as faces são triângulos equiláteros, os ângulos internos têm uma amplitude de $\dfrac{\pi}{3}$ radianos de amplitude

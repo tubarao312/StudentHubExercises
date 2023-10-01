@@ -1,0 +1,1 @@
+Usa agora o valor que encontraste anteriormente e substitui na expressão: $1-3-\dfrac{2}{3}=3$

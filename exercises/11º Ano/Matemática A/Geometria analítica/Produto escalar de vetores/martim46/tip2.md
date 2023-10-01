@@ -1,0 +1,1 @@
+Então os vetores $\bar{UP}$ e $\bar{RS}$ possuem a mesma norma e sentidos opostos logo o ângulo por eles formado têm uma amplitude de $\pi$ radianos

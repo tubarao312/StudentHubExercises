@@ -1,0 +1,1 @@
+O ângulo $\hat{CBA}$ é igual a $30º$

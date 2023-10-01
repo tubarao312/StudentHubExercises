@@ -1,0 +1,1 @@
+Para que $cos{\vec{p} \vec{q}}=-1$, o ângulo entre os dois vetores é de $180º$, como os vetores possuem a mesma norma $\vec{p}=-\vec{q} \rightarrow \vec{p}+\vec{q}=0$

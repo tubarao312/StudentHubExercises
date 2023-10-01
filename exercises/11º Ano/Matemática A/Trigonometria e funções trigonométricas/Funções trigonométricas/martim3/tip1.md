@@ -1,0 +1,1 @@
+A primeira condição diz-nos que $\alpha$ está no 1º Quadrante

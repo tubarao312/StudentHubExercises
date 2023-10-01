@@ -1,0 +1,1 @@
+Como a função é definida por $1-3 \sin{(2x)}$  , para obter o seu contradomínio vais ter de adicionar 1 ao intervalo obtido anteriormente: $-3+1≤1-3\sin{(2)} ≤2+1$

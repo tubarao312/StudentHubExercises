@@ -1,0 +1,1 @@
+No caso da função f, temos $a=2$, logo o período, P, será: $\dfrac{2\pi}{2}=\pi$

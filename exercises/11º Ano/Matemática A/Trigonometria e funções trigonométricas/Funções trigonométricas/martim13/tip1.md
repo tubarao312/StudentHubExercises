@@ -1,0 +1,1 @@
+$\frac{-\sin{(\frac{\pi}{4})}-\cos{(\frac{\pi}{4})}}{-2\tan{(\frac{\pi}{3})}-\tan{(\frac{5\pi}{6})}}$

@@ -1,0 +1,1 @@
+$\sin{(\sqrt{12}\tau+\sqrt{8}x-\dfrac{\pi}{3})}=\sin{(\sqrt{12}x-\dfrac{\pi}{3})}$

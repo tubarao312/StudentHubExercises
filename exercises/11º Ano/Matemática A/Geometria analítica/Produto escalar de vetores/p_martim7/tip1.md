@@ -1,0 +1,1 @@
+$\vec {u} \cdot \vec {v} = ||\vec {u}|| \times ||\vec {v}|| \times \cos⁡{( \hat {\vec {u} , \vec {v}} )}$

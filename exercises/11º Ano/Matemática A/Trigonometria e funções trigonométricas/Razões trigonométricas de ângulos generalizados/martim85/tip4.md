@@ -1,0 +1,1 @@
+$\dfrac{\tan^2{x}-1+\tan^2{x}+1}{\tan^2{x}+1}$=$\dfrac{2\tan^2{x}}{\tan^2{x}+1}$

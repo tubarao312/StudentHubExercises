@@ -1,0 +1,1 @@
+$\dfrac{P(B)-P(A \cap B)}{P(B)}=\dfrac{\dfrac{1}{2}-\dfrac{1}{5}}{\dfrac{1}{2}}=\dfrac{3}{5}$

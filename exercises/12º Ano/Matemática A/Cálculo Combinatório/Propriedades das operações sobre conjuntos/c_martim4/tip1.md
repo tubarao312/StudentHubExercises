@@ -1,0 +1,1 @@
+$P(\bar{A} | B)=\dfrac{P(\bar{A} \cap B)}{P(B)}$

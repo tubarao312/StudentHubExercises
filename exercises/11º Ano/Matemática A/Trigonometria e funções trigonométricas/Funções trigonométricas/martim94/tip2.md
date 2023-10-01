@@ -1,0 +1,1 @@
+$\sin{(\sqrt{5}\tau+\sqrt{5}x-\dfrac{\pi}{3})}=\sin{(\sqrt{5}x-\dfrac{\pi}{3})}$

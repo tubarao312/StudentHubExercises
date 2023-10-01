@@ -1,0 +1,1 @@
+Uma reta é paralela ao eixo Oy quando tem a direção de um vetor da família de vetores, $\vec {s}(x,0,0) , x \in R \setminus 0$

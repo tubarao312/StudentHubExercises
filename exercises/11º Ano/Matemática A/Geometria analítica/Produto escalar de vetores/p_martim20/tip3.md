@@ -1,0 +1,1 @@
+$\vec {AC} \cdot \vec {BA} = ||\vec {AC}|| \times  ||\vec{BA}|| \times \cos{(\hat{\vec {A C} \space \vec {B A}} )} =6\times6\times cos{(60 °)} =18$

@@ -1,0 +1,1 @@
+Para os vetores serem perpendiculares $\vec{u} \cdot \vec{v}=0$

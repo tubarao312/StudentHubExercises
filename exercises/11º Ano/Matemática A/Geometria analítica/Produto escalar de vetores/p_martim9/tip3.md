@@ -1,0 +1,1 @@
+Logo o conjunto de pontos que tornam, $\vec{PR} \cdot \vec{PS} =0$ uma condição verdadeira são os pontos da circunferência de diâmetro [RS]

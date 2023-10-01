@@ -1,0 +1,1 @@
+$\dfrac{\vec{BC} \cdot \vec{BI}}{||\vec{BI}||}=\dfrac{||\vec{BC}|| \times ||\vec{BI}|| \times \cos{\theta}}{||\vec{BI}||}$

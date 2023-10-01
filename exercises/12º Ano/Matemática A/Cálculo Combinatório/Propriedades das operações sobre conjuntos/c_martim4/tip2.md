@@ -1,0 +1,1 @@
+$\dfrac{P(\bar{A} \cap B)}{P(B)}=\dfrac{P(B)-P(A \cap B)}{P(B)}$

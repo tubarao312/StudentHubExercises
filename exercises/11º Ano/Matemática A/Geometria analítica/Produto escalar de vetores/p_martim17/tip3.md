@@ -1,0 +1,1 @@
+A reta de equação $(x,y,z) = (0,1, \dfrac{2}{3}) +k(0,2,1) , k \in R$ tem a direção do vetor $\vec{n}(0,2,1)$
