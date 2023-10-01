@@ -1,0 +1,1 @@
+$_{1}^{3}\textrm{C}$ representa o número de possibilidades de escolher a linha que fica livre.

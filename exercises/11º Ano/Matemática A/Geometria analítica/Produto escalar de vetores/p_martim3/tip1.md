@@ -1,0 +1,1 @@
+Um vetor diretor da reta r, $\vec{r}$ pode ser $(1,-a)$, logo o declive da reta é $m_r=-a$

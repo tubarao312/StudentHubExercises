@@ -1,0 +1,1 @@
+A equação é uma equação polinomial de segundo grau

@@ -1,0 +1,1 @@
+$f(a) =3$, logo $1-3\sin{(2a)} =3 \rightarrow \sin{(2a)} =-\dfrac{2}{3}$

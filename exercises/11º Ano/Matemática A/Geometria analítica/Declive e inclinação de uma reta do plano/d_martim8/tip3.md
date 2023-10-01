@@ -1,0 +1,1 @@
+Um vetor diretor da reta perpendicular pode ser $(1,-2)$

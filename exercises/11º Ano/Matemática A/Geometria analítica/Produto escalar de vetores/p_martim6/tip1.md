@@ -1,0 +1,1 @@
+$s :2x-3y+1=0 \rightarrow 3y=2x+1 \rightarrow y= \dfrac{2x}{3} + \dfrac{1}{3}$

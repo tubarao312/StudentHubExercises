@@ -1,0 +1,2 @@
+Para encontrar o valor de $f(a+3\pi)$, precisamos de substituir $x$  por $a+3\pi$  na função: $f(a+3\pi) =1-3 \sin⁡{(2a+6\pi)}$
+Usa agora a propriedade trigonométrica  para simplificar a expressão: $1-3 \sin⁡{(2a+6\pi)}$ para $1-3 \sin⁡{(2a)}$

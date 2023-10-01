@@ -1,0 +1,1 @@
+$H(\dfrac{\bar{OE}}{2} ,\dfrac{\bar{OE}}{2},0)$

@@ -1,0 +1,1 @@
+A tem coordenadas $(\cos{x}; \sin{x})$, com $\cos{x}< 0 \space \land \space \sin{x} > 0$

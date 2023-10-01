@@ -1,0 +1,1 @@
+Sendo o declive da reta $m=\dfrac{1}{2}$, o declive da reta perpendicular é $m=-2$

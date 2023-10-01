@@ -1,0 +1,1 @@
+A linha seguinte, determinada para n = 51 tem 52 elementos, dos quais 2 × 14 = 28 são inferiores a k.

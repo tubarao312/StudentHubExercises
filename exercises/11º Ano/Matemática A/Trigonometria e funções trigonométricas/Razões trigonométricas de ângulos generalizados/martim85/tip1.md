@@ -1,0 +1,1 @@
+$\dfrac{1-\dfrac{1}{\tan^2{x}}}{1+\dfrac{1}{\tan^2{x}}}+1=\dfrac{\dfrac{\tan^2{x}-1}{\tan^2{x}}}{\dfrac{\tan^2{x}+1}{\tan^2{x}}}+1$

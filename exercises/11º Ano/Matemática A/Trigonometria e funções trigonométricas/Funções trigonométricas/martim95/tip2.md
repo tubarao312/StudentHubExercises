@@ -1,0 +1,1 @@
+$\sin{(\sqrt{6}\tau+\sqrt{6}x-\dfrac{\pi}{3})}=\sin{(\sqrt{6}x-\dfrac{\pi}{3})}$

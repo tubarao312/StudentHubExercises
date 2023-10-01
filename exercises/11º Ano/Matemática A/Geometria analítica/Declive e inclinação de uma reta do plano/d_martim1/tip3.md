@@ -1,0 +1,1 @@
+A resposta é $y=2x+2$

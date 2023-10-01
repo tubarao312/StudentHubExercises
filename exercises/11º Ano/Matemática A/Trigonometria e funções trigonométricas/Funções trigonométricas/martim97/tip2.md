@@ -1,0 +1,1 @@
+$\sin{(\sqrt{8}\tau+\sqrt{8}x-\dfrac{\pi}{3})}=\sin{(\sqrt{8}x-\dfrac{\pi}{3})}$

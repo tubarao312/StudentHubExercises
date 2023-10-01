@@ -1,0 +1,1 @@
+$-\tan{x} \times -\cos{x}+\sin{x}$

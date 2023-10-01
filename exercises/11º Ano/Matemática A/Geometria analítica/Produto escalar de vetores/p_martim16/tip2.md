@@ -1,0 +1,1 @@
+O plano $\alpha$ é definido pela equação $x-2y+6z-4=0$ , pelo que $\vec {n} (1,-2,6)$ é um vetor normal ao plano $\alpha$.

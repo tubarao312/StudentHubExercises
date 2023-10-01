@@ -1,0 +1,1 @@
+$\dfrac{-\sin{(x)}(-\sin{(x)})-\cos{x)}(-\cos{(x)})}{\tan{(x)}}=\dfrac{\sin^2{(x)}+\cos^2{x}}{\tan{(x)}}$

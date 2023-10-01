@@ -1,0 +1,1 @@
+Sendo o denominador da fração $\sqrt{2}\cos{x}-2\sin{x}\cos{x}$, o denominador não pode ser nulo logo $\sqrt{2}\cos{x}-2\sin{x}\cos{x} \neq 0$

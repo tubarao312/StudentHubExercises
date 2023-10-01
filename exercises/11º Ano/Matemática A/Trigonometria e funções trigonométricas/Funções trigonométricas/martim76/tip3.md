@@ -1,0 +1,1 @@
+$\sin{(2\tau +2x-\dfrac{\pi}{6})}=\sin{(2x-\dfrac{\pi}{6})}$

@@ -1,0 +1,1 @@
+O centro da circunferência é a origem do referencial logo a reta (reta t) que contem os pontos (0,0) e (1,2) é perpendicular à reta tangente à circunferência em (1,2)

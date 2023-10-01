@@ -1,0 +1,1 @@
+$\sin{(\sqrt{3}\tau+\sqrt{3}x-\dfrac{\pi}{3})}=\sin{(\sqrt{3}x-\dfrac{\pi}{3})}$

@@ -1,0 +1,1 @@
+A reta s tem de declive $m_s=-3$

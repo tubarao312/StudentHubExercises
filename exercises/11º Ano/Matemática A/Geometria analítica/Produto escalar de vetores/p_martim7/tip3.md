@@ -1,0 +1,1 @@
+$\theta=\cos^{-1}{(\dfrac{-3\sqrt{55}}{55})} \approx 113,9º$

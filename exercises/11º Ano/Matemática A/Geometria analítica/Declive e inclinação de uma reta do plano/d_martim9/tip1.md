@@ -1,0 +1,1 @@
+O declive da reta é $m=\sqrt{3}$

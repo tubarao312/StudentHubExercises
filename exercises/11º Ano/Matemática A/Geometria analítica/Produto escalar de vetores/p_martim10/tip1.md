@@ -1,0 +1,1 @@
+O produto escalar entre dois vetores é nulo apenas se os vetores forem perpendiculares entre si

@@ -1,0 +1,1 @@
+Sabes que o seno (sin) varia entre -1 e 1. Portanto, a parte  da função pode variar entre -3 e 3 (resultado obtido por multiplicar os extremos da função seno por -3):   $-3≤-3\sin{(2x)}≤3$

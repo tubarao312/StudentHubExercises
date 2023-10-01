@@ -1,0 +1,1 @@
+Um possível vetor diretor da reta $\vec{u}(-\sqrt{3};\sqrt{3})$

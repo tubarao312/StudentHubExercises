@@ -1,0 +1,1 @@
+Como [AB] é um diâmetro, $\hat{ACB}=180º$

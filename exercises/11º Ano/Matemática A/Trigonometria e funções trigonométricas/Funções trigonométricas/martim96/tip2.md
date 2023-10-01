@@ -1,0 +1,1 @@
+$\sin{(\sqrt{7}\tau+\sqrt{7}x-\dfrac{\pi}{3})}=\sin{(\sqrt{7}x-\dfrac{\pi}{3})}$

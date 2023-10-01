@@ -1,0 +1,1 @@
+$\dfrac{2\tan^2{x}}{\tan^2{x}+1}=\dfrac{2(\dfrac{sin^2{x}}{\cos^2{x}})}{\dfrac{1}{\cos^2{x}}}$

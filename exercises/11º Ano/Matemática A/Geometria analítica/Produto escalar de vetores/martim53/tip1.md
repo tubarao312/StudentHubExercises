@@ -1,0 +1,1 @@
+Como o Prisma é regular, as faces laterais são retângulos o que signfica que $\hat{STR}=90º$.

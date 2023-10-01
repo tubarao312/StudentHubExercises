@@ -1,0 +1,1 @@
+O declive é $-\dfrac{1}{2}$

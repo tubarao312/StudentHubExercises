@@ -1,0 +1,1 @@
+$A_{trapézio} =  \dfrac{(B+b)}{2} \times h=  \dfrac{(\tan{\alpha} + \sin{\alpha})}{2} \times (1-\cos{\alpha})$

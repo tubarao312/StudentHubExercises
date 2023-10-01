@@ -1,0 +1,1 @@
+$\vec {CB} \cdot \vec {CA} = 10 \times 10 \times \cos{⁡(180º)}=100 \times -1 = -100$

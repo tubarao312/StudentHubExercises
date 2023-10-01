@@ -1,0 +1,1 @@
+Deste modo, $BÂO = \pi - \alpha = \pi-(\tan^{-1}{(−2)} + π)=-\tan^{-1}{(−2)}\approx1.11 rad$

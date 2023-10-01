@@ -1,0 +1,1 @@
+$\vec{r} \cdot \vec{s}=(3, \sqrt{3}) \cdot (1, \sqrt{3})=6$

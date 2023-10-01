@@ -1,0 +1,1 @@
+$\bar{OC}+\bar{BC}=\cos{\theta}+\sin{\theta}$

@@ -1,0 +1,1 @@
+O contradomínio da função  é $[-2;4]$.

@@ -1,0 +1,1 @@
+Como é uma equação de segundo grau, não tem um valor fixo de inclinação

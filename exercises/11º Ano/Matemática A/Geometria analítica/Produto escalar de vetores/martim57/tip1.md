@@ -1,0 +1,1 @@
+Como o ponto P pertence à aresta [BG], este tem abcissa e ordenada igual às do ponto B e do ponto G então $P(-2,2,1)$ e como o ponto R é o simétrico do ponto P, $R(2,-2,-1)$

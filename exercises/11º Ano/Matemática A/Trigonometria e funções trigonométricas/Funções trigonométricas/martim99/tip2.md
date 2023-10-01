@@ -1,0 +1,1 @@
+$\sin{(\sqrt{11}\tau+\sqrt{11}x-\dfrac{\pi}{3})}=\sin{(\sqrt{11}x-\dfrac{\pi}{3})}$

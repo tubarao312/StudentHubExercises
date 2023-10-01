@@ -1,0 +1,1 @@
+A reta r é paralela ao plano $\alpha$ quando e apenas quando $\vec{r} \cdot \vec{n}=0$
