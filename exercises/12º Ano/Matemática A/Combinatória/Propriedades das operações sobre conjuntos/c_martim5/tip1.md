@@ -1,1 +1,1 @@
-Acontecimentos independentes $ \rightarrow P(A \cap B) = P(A) \times P(B)$
+Acontecimentos independentes $\rightarrow P(A \cap B) = P(A) \times P(B)$

@@ -1,4 +1,4 @@
-$ x^{3}-3x^{2}>4x-12 \iff (x-3)(x^{2}-4) > 0  $
+$x^{3}-3x^{2}>4x-12 \iff (x-3)(x^{2}-4) > 0$
 
 Realiza um quadro de sinais para determinares quais valores de x são maiores do que 0. 
 
@@ -20,7 +20,7 @@ $
 
 Assim, podemos concluir que: 
 
-$ P(x) > 0 \iff x\in ]-2, 2 [\cup ]3, +\infty [ $
+$P(x) > 0 \iff x\in ]-2, 2 [\cup ]3, +\infty [$
 
 
 Desta forma concluímos que a opção certa é a B)

@@ -1,4 +1,4 @@
-$ P(x)<0 \iff (x+1)(x-1)(x+2) <0  $
+$P(x)<0 \iff (x+1)(x-1)(x+2) <0$
 
 Realiza um quadro de sinais para determinares quais valores de x são menores do que 0. 
 
@@ -22,7 +22,7 @@ $
 
 Assim, podemos concluir que: 
 
-$ P(x)<0 \iff x\in ]-\infty, 0[  \cup  ]-1,1[  $
+$P(x)<0 \iff x\in ]-\infty, 0[  \cup  ]-1,1[$
 
 
 Desta forma concluímos que a opção certa é a C)

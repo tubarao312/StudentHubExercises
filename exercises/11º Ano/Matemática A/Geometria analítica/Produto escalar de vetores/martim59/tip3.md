@@ -1,6 +1,6 @@
 Recorrendo ao produto escalar
 
-$\vec{HA} \cdot \vec{HC} = ||\vec{HA}|| \times ||\vec{HC}|| \times \cos{(\hat{\vec{HA} \vec{HC}})} $
+$\vec{HA} \cdot \vec{HC} = ||\vec{HA}|| \times ||\vec{HC}|| \times \cos{(\hat{\vec{HA} \vec{HC}})}$
 
 $\cos{(\hat{\vec{HA} \vec{HC}})}=\dfrac{\vec{HA} \cdot \vec{HC}}{||\vec{HA}|| \times ||\vec{HC}||}$
 

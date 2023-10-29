@@ -1,4 +1,4 @@
-$ (1-x)^{5}(x-2)^{4}<0 $
+$(1-x)^{5}(x-2)^{4}<0$
 
 Realiza um quadro de sinais para determinares quais valores de y são menores do que 0. 
 
@@ -19,6 +19,6 @@ $
 
 Assim, podemos concluir que: 
 
-$ (1-x)^{5}(x-2)^{4}<0 \iff x\in ]1, +\infty [ /\{ 2 \}  $
+$(1-x)^{5}(x-2)^{4}<0 \iff x\in ]1, +\infty [ /\{ 2 \}$
 
 Desta forma concluímos que a opção certa é a D)

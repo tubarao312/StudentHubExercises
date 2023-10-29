@@ -8,11 +8,11 @@ Decompõe P(x), ou seja :
 
 Assim, podemos concluir que:
  
- - $ Q(x) = x^{2}-4 $ 
+ - $Q(x) = x^{2}-4$ 
 
  Como se pretende decompor em 2 fatores, então: 
 
-  - $ P(x) = (x-3)(x^{2}-4) $ 
+  - $P(x) = (x-3)(x^{2}-4)$ 
 
 
 Desta forma concluímos que a opção certa é a B)

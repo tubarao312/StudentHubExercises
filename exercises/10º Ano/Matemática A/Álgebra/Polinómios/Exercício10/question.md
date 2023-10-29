@@ -1,5 +1,5 @@
 
-## Considere o polinómio $  P(x) = (a – 1) x^5 + (a + 1) x^3 – ax + a  $ 
+## Considere o polinómio $P(x) = (a – 1) x^5 + (a + 1) x^3 – ax + a$ 
 
 ## Qual das afirmações seguintes é verdadeira?
 

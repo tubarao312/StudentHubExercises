@@ -1,20 +1,20 @@
-$ (x^{2}+2x+1) P(x) \leqslant  0 $
+$(x^{2}+2x+1) P(x) \leqslant  0$
 
-Determina como calculo auxiliar  os zeros de $  x^{2} + 1 $ para isso utiliza a lei do anulamento do produto. 
+Determina como calculo auxiliar  os zeros de $x^{2} + 1$ para isso utiliza a lei do anulamento do produto. 
 
   C.a. :  
   
-   - $ x^{2} + 1 = 0 $ $ \iff $ $ x^{2} = -1 $ , impossível
+   - $x^{2} + 1 = 0$ $\iff$ $x^{2} = -1$ , impossível
 
 Como é uma equação impossivel todos os valores de y são positivos, visto ser uma parabola e ser voltada para cima. 
 
-Determina como calculo auxiliar  os zeros de $  x^{2}+2x+1$ para isso utiliza a lei do anulamento do produto. 
+Determina como calculo auxiliar  os zeros de $x^{2}+2x+1$ para isso utiliza a lei do anulamento do produto. 
 
   C.a. :  
   
-   - $ x^{2}+2x+1 = 0 $ $ \iff $ *(Utiliza a formula resolvente) $ x= -1 $ 
+   - $x^{2}+2x+1 = 0$ $\iff$ *(Utiliza a formula resolvente) $x= -1$ 
 
-Assim, $ x^{2}+2x+1 $ tem apenas um zero e como é uma parabola voltada para cima todos os valores de y são positivos com a exceção onde o x é -1 onde o valor de y é 0. 
+Assim, $x^{2}+2x+1$ tem apenas um zero e como é uma parabola voltada para cima todos os valores de y são positivos com a exceção onde o x é -1 onde o valor de y é 0. 
 
 Realiza um quadro de sinais para determinares quais valores de y são menores ou igaus do que 0.
 
@@ -39,6 +39,6 @@ $
 
 Assim, podemos concluir que: 
 
-$ (x^{2}+2x+1) P(x) \leqslant  0 \iff x\in [-3, 3]   $
+$(x^{2}+2x+1) P(x) \leqslant  0 \iff x\in [-3, 3]$
 
 Desta forma concluímos que a opção certa é a C)

@@ -1,4 +1,4 @@
-## Passo 1: Expandir o quadrado $ ((2x-3)^{2}) $ 
+## Passo 1: Expandir o quadrado $((2x-3)^{2})$ 
 
 Usamos o caso notável da diferença de quadrados:
 

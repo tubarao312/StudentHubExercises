@@ -8,11 +8,11 @@ Decompõe P(x), ou seja :
 
 Assim, podemos concluir que:
  
- - $ Q(x) = x^{2} +x-2 $ 
+ - $Q(x) = x^{2} +x-2$ 
 
  Como se pretende decompor em 2 fatores, então: 
 
-  - $ P(x) = (x+1) (x^{2} + x-2) $ 
+  - $P(x) = (x+1) (x^{2} + x-2)$ 
 
 
 Desta forma concluímos que a opção certa é a C)

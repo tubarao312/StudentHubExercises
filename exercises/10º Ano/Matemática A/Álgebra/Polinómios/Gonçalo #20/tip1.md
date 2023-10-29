@@ -1,10 +1,10 @@
-$ (-x-1) P(x) >0 $
+$(-x-1) P(x) >0$
 
-Determina como calculo auxiliar  os zeros de $  x^{2} + 1 $ para isso utiliza a lei do anulamento do produto. 
+Determina como calculo auxiliar  os zeros de $x^{2} + 1$ para isso utiliza a lei do anulamento do produto. 
 
   C.a. :  
   
-   - $ x^{2} + 1 = 0 $ $ \iff $ $ x^{2} = -1 $ , impossível
+   - $x^{2} + 1 = 0$ $\iff$ $x^{2} = -1$ , impossível
 
 Como é uma equação impossivel todos os valores de y são positivos, visto ser uma parabola e ser voltada para cima. 
 
@@ -31,6 +31,6 @@ $
 
 Assim, podemos concluir que: 
 
-$ (-x-1) P(x) >0 \iff x\in ]-\infty, -3[ \cup ]1,3[   $
+$(-x-1) P(x) >0 \iff x\in ]-\infty, -3[ \cup ]1,3[$
 
 Desta forma concluímos que a opção certa é a D)

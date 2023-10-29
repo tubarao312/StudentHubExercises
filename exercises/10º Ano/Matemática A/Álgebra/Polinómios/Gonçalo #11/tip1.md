@@ -1,10 +1,10 @@
-$ (-x^{2} -2 ) (1-x)^{5}\geqslant 0  $
+$(-x^{2} -2 ) (1-x)^{5}\geqslant 0$
 
-Determina como calculo auxiliar  os zeros de $  -x^{2} -2 $ para isso utiliza a lei do anulamento do produto. 
+Determina como calculo auxiliar  os zeros de $-x^{2} -2$ para isso utiliza a lei do anulamento do produto. 
 
   C.a. :  
   
-   - $ -x^{2} -2 = 0 $ $ \iff $ $ x^{2}=-2 $ , impossível
+   - $-x^{2} -2 = 0$ $\iff$ $x^{2}=-2$ , impossível
 
 Como é uma equação impossivel todos os valores de y são negativos, visto ser uma parabola e ser voltada para baixo. 
 
@@ -27,7 +27,7 @@ $
 
 Assim, podemos concluir que: 
 
-$ (-x^{2} -2 ) (1-x)^{5}\geqslant 0 \iff x\in  [1, +\infty [ $
+$(-x^{2} -2 ) (1-x)^{5}\geqslant 0 \iff x\in  [1, +\infty [$
 
 Desta forma concluímos que a opção certa é a A)
 

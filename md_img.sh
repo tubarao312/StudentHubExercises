@@ -37,7 +37,7 @@ find . -type f -name "*.pdf" -print0 | while IFS= read -r -d '' file; do
 
     # Check if ${img}.png exists in the same directory
     if [ ! -f "$(dirname "$file")/${img}.png" ]; then
-        convert -background white -alpha remove -alpha off -density 300 -trim "$file" "$(dirname "$file")/${img}.png"
+        convert -define colorspace:auto-grayscale=false --pdf-engine=xelatex -background white -alpha remove -alpha off -density 300 -trim "$file" "$(dirname "$file")/${img}.png"
         rm "$file"
     fi
 done

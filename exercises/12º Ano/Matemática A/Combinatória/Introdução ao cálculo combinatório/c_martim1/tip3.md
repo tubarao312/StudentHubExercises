@@ -1,1 +1,1 @@
-$_{6}^{10}\textrm{C} \times 6! $ representa o número de possibilidades de escolher, entre os 10 cartões numerados, 6 para ocupar a linha, permutando-os pelas 6 posições.
+$_{6}^{10}\textrm{C} \times 6!$ representa o número de possibilidades de escolher, entre os 10 cartões numerados, 6 para ocupar a linha, permutando-os pelas 6 posições.

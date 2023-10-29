@@ -1,4 +1,4 @@
-## A simplificação de $({\sqrt[3]{a^{-1}}})^{-4}$ e $ ({\sqrt{5a^{-2}}})^{-4} $ é respetivamente:
+## A simplificação de $({\sqrt[3]{a^{-1}}})^{-4}$ e $({\sqrt{5a^{-2}}})^{-4}$ é respetivamente:
 
 A) $a\sqrt[3]{a^2}$ e $\frac{1}{a\sqrt{5a^3}}$
 

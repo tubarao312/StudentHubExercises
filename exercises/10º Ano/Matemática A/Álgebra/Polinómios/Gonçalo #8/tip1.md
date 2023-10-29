@@ -1,10 +1,10 @@
-$ (x-2)(x^{2}+3) <0 $
+$(x-2)(x^{2}+3) <0$
 
-Determina como calculo auxiliar  os zeros de $  x^{2}+3 $ para isso utiliza a lei do anulamento do produto. 
+Determina como calculo auxiliar  os zeros de $x^{2}+3$ para isso utiliza a lei do anulamento do produto. 
 
   C.a. :  
   
-   - $ x^{2}+3 = 0 $ $ \iff $ $ x^{2}=-3 $ , impossível
+   - $x^{2}+3 = 0$ $\iff$ $x^{2}=-3$ , impossível
 
 Como é uma equação impossivel todos os valores de y são positivos. 
 
@@ -27,7 +27,7 @@ $
 
 Assim, podemos concluir que: 
 
-$ (x-2)(x^{2}+3) <0 \iff x \in ]-\infty, 2[ $
+$(x-2)(x^{2}+3) <0 \iff x \in ]-\infty, 2[$
 
 Desta forma concluímos que a opção certa é a D)
 

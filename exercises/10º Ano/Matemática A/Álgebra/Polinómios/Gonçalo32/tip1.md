@@ -17,5 +17,5 @@ O resultado é:
 $-4$
 A expressão simplificada é:
 
-$ -\frac{5}{4} $
+$-\frac{5}{4}$
 
