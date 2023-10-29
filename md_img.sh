@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "Removing whitespaces in .md files..."
+
 # Loop through all .md files
 find . -type f -name "*.md" -print0 | while IFS= read -r -d '' file; do
     # Check if the file exists
@@ -21,7 +23,7 @@ while IFS= read -r -d '' file; do
     # Check if ${img}.png exists in the same directory
     if [ ! -f "$(dirname "$file")/${img}.png" ]; then
         # Run the pandoc command
-        pandoc -o "$(dirname "$file")/${img}.pdf" "$file"
+        pandoc -V pagestyle:empty -o "$(dirname "$file")/${img}.pdf" "$file"
     fi
 done
 
@@ -35,16 +37,9 @@ find . -type f -name "*.pdf" -print0 | while IFS= read -r -d '' file; do
 
     # Check if ${img}.png exists in the same directory
     if [ ! -f "$(dirname "$file")/${img}.png" ]; then
-        # Run the convert command
-        # pdfcrop --margins "0 0 0 0" input.pdf temp.pdf
-        # convert -density 300 -trim temp.pdf output.png
-        # rm temp.pdf
-        
-        # pdfcrop --margins "0 0 0 0" "$file" "$file"
-        convert -density 300 -trim "$file" "$(dirname "$file")/${img}.png"
-        # rm "$file"
+        convert -background white -alpha remove -alpha off -density 300 -trim "$file" "$(dirname "$file")/${img}.png"
+        rm "$file"
     fi
 done
 
 echo "Converted all pdf files to png"
-
