@@ -1,1 +1,0 @@
- $\beta:x+ \dfrac{1}{5} y=0$, pelo que  $\vec {n}_{\beta}(1,\dfrac{1}{5},0)$ é um vetor normal a $\beta$

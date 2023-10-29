@@ -1,0 +1,1 @@
+$\forall p_1, p_2 \in \N, p_2>p_1 \iff a_{p2} \geq a_{p1}$

@@ -1,0 +1,1 @@
+Lembra-te que $P \in \alpha$

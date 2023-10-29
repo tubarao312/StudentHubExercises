@@ -1,0 +1,1 @@
+Logo apenas $\tan(x)-\sin(x)$ dá números positivos

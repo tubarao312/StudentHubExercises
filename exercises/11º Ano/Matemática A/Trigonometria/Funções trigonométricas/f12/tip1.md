@@ -1,0 +1,1 @@
+A função seno é apenas crescente no 1º e no 4º Quadrante.

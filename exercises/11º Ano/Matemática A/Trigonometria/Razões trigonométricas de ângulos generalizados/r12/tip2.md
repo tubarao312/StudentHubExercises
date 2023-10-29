@@ -1,0 +1,1 @@
+$\bar{BC} ^ {2} = \bar {CA} ^ {2} + \bar {AB} ^ {2} -2 \times \bar{CA} \times \bar{AB} \times \cos{(\hat{CAB})}$

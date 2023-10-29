@@ -1,0 +1,1 @@
+$\lim \dfrac{{ (\sqrt {{n} ^ {2} +4n+3}  )} ^ {2} - { (\sqrt {{n} ^ {2} +2}  )} ^ {2}}  {\sqrt {{n} ^ {2} +4n+3} + \sqrt {{n} ^ {2} +2}}=\lim \dfrac{4+ \dfrac{1} {n}} {\sqrt {1+ \dfrac{4} {n} + \dfrac{3} {{n} ^ {2}}} + \sqrt {1+ \dfrac{2} {{n} ^ {2}}}}$

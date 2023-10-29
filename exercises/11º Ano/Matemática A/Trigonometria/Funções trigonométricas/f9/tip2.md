@@ -1,0 +1,1 @@
+$\sin {(\dfrac{3\pi}{2} -x )} - \sin  {(7π+x)} - \sin  {(- \dfrac{\pi}{2} +x )} - \dfrac{\cos {(\dfrac{π}{2} +x)}}{\cos {(-x )}} = \sin { (\pi+ \dfrac{\pi}{2} -x)} - \sin  { (\pi+x  )} +\cos {x}- \dfrac{ (-\sin{x})} {\cos {x}}$

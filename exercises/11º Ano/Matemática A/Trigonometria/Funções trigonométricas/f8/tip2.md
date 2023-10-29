@@ -1,0 +1,1 @@
+$\dfrac{-\sin(\alpha)\times1}  {-\cos {(\alpha)} +\cos(\alpha) +1 }$

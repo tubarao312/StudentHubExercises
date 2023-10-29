@@ -1,0 +1,1 @@
+${\tan} ^ {2} (\hat{CAB}) +1= \dfrac{1}{{\cos } ^ {2 } (\hat{CAB} )} \rightarrow (\dfrac{4}{3}  ) ^ {2} +1= \dfrac{1}{{\cos } ^ {2 } {(\hat{CAB})}} \rightarrow {\cos } ^ {2 } {(\hat{CAB})} = \dfrac{1}{{(\dfrac{4}{3})} ^ {2} +1 } \rightarrow {\cos} ^ {2}  {(\hat{CAB})} = \dfrac{9}{25} \rightarrow \cos⁡(\hat{CAB)} = \dfrac{3}{5}$

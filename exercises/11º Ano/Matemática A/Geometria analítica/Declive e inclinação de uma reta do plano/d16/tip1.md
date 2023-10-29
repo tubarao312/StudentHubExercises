@@ -1,0 +1,1 @@
+Seja $y=mx+b$ a equação pedida, o declive é igual a $m=\tan{\theta}$ sendo $\theta$ a inclinação da reta

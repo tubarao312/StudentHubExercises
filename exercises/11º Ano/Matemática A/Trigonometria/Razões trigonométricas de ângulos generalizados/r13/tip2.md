@@ -1,0 +1,1 @@
+$2\sin{(540°-\alpha)} +3 \cos {(-\alpha-810°)} +4 \tan {(-\alpha+1080°)} =2 \sin{(180°-\alpha)} +3\cos {(-\alpha-90° )} +4 \tan {(-α )}$

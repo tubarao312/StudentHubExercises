@@ -1,0 +1,1 @@
+$\dfrac{\bar{OR} \times y_P}{2}=\dfrac{2\cos{\alpha}\sin{\alpha}}{2}=\cos{\alpha}\sin{\alpha}$

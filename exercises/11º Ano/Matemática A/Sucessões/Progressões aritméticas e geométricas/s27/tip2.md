@@ -1,0 +1,1 @@
+$\textrm{Como a sucessão é monótona, então r>0 logo } r=\dfrac{1}{4}$

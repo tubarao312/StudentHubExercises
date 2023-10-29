@@ -1,0 +1,1 @@
+Então $\sin(x)+\cos(x)<0, \dfrac{\cos(x)}{\tan(x)}<0, \tan(x)-\sin(x)>0, \sin(x) \times \tan(x)<0$

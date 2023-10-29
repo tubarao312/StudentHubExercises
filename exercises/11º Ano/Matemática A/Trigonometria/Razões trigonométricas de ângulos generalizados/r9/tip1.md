@@ -1,0 +1,1 @@
+$\beta +2\alpha = \pi$, logo $\beta = \pi-2\alpha$

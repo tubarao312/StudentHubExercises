@@ -1,0 +1,1 @@
+No 2º e no 4ºQuadrante $\cos{x}$  e $\sin{x}$  têm sinais diferentes.

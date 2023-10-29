@@ -1,0 +1,1 @@
+$\textrm{Logo podemos concluir que } u_{117}=4$

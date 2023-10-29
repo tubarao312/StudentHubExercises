@@ -1,0 +1,1 @@
+$\textrm{Considerando os dados, temos que: }{u} _ {n} = \dfrac{{n} ^ {2} +5n+3}  {n+2} e \lim \dfrac{{u} _ {n+1}}  {{u} _ {n}} = \sqrt[n]{{u} _ {n}}$

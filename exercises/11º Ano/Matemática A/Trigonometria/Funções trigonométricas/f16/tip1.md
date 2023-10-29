@@ -1,0 +1,1 @@
+Para que esta expressão tome sempre valores negativos, o $\cos{x}$ e o $\sin{x}$ têm de ter sinais diferentes.

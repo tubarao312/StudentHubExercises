@@ -1,0 +1,1 @@
+As coordenadas do ponto A são $A(0,-2)$, logo $ (x,y) =(1,2) +k(-1,1) , k \in R$, $vec{s}(1,1)$ e  $P\in reta \space s$

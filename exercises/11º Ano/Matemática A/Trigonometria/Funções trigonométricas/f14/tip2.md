@@ -1,0 +1,1 @@
+$\sin{\dfrac{3\pi}{4}}=-\dfrac{1}{2}$, logo $\arccos{(-\dfrac{1}{2})}=\dfrac{3\pi}{4}$

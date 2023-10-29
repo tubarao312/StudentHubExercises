@@ -1,1 +1,0 @@
-$\alpha:bx+3y+2z=0, b \in R$  pelo que $\vec {n}_{\alpha}(b,3,2) ,b \in R$ é um vetor normal a $\alpha$

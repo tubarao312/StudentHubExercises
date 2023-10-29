@@ -1,0 +1,1 @@
+$=-\cos(x)-\cos(x)-\cos(x)=-3\cos(x)$

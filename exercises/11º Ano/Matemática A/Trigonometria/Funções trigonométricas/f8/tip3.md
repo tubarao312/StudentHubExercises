@@ -1,0 +1,1 @@
+$\dfrac{-\sin(\alpha)×1} {1 } =-\sin(\alpha)$

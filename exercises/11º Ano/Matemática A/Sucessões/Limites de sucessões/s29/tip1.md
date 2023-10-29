@@ -1,0 +1,1 @@
+$\lim ⁡u_ {n} =\lim \sqrt {{n} ^ {2} +4n+3} - \sqrt {{n} ^ {2} +2} = \lim \dfrac{(\sqrt {{n} ^ {2} +4n+3} - \sqrt {{n} ^ {2} +2} ) (\sqrt {{n} ^ {2} +4n+3} + \sqrt {{n} ^ {2} +2} )} {\sqrt {{n} ^ {2} +4n+3} + \sqrt {{n} ^ {2} +2}}$

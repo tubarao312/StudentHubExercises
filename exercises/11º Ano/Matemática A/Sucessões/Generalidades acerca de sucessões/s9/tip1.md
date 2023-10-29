@@ -1,0 +1,1 @@
+$\begin{cases} -1 \textrm{ se n é ímpar} \\ 1 \textrm{ se n é par} \end{cases}, (S_n) \textrm{é limitada}$

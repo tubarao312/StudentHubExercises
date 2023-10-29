@@ -1,0 +1,1 @@
+$\textrm{No entanto, sabemos que a sucessão  é não monótona, pelo que r < 0, ou seja, } r=- \dfrac{5 \sqrt {13}}  {13}$

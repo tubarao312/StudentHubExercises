@@ -1,0 +1,1 @@
+O ponto B possui como coordenadas $B(\cos{\beta}, \sin{\beta})$

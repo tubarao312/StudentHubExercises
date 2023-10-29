@@ -1,1 +1,0 @@
-Sendo o númerador da fração $\tan{x}$, a tangente não é definida para  $\tan{\dfrac{\pi}{2}} \lor -\tan{\dfrac{\pi}{2}}$, logo: $x \neq \dfrac{\pi}{2} \space \lor \space x \neq -\dfrac{\pi}{2}$

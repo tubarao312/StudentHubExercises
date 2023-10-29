@@ -1,0 +1,1 @@
+$\textrm{Por outro lado, o Daniel pretende que na semana anterior à semana da prova, ou seja, daqui a 22 semanas, a duração do treino, dessa semana, seja, inferior ou igual a 7 horas, isto é, que} u_{22}\leq 7 $

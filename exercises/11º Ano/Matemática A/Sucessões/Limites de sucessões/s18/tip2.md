@@ -1,0 +1,1 @@
+$lim \dfrac{{u} _ {n+1}}  {{u} _ {n}} = \sqrt [n]{{u} _ {n}}$

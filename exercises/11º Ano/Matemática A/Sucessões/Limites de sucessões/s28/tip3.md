@@ -1,0 +1,1 @@
+$\dfrac{1+0} {\sqrt {2+0} +3} = \dfrac{1} {\sqrt {2} +3}=\dfrac{3-\sqrt{2}}{5}$

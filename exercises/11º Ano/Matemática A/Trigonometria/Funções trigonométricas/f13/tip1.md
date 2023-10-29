@@ -1,0 +1,1 @@
+$\bar{AC}^ {2} = \bar{BC} ^ {2} + \bar {AB} ^ {2} -2 \times \bar{BC} \times \bar{AB} \times \cos{(\hat{CBA})}$

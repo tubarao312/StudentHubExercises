@@ -1,0 +1,1 @@
+$\textrm{Determinação do primeiro termo } {u} _ {2} = {u} _ {1} × {r} ^ {2} ⟺13= {u}_ {1} × { (- \dfrac{5 \sqrt {13}}  {13} )} ^ {2}= \dfrac{169}  {25}$

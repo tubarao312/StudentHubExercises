@@ -1,0 +1,1 @@
+Existem $2 \times 20 =40$ soluções

@@ -1,0 +1,1 @@
+$\cos ^ {2 } {(\alpha)} + \sin ^ {2 } {(\alpha)} =1 \rightarrow \cos ^ {2}  {(\alpha)} + {(\dfrac{2}{3})} ^ {2} =1 \rightarrow \cos ^ {2}  {(\alpha)} + \dfrac{4}{9} =1 \rightarrow \cos ^ {2}  {(\alpha)} = \dfrac{5}{9}$

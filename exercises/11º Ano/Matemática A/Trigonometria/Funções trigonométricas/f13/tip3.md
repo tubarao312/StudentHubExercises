@@ -1,0 +1,1 @@
+$\alpha = \arccos{(-0,775)}\approx140,8º$

@@ -1,0 +1,1 @@
+$\cos{\beta}=\dfrac{\bar{OP}}{\bar{\bar{OQ}}}=\dfrac{1}{\bar{OQ}}$

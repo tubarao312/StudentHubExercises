@@ -1,0 +1,1 @@
+$\large{\begin{cases} {w} _ {1} = \dfrac{3} {4} \\ {w} _ {n+1} = {w} _ {n} \times \dfrac{3}{2}\end{cases} , \forall n \in \N}$

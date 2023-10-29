@@ -1,0 +1,1 @@
+No 1º Quadrante o $\sin{\alpha}$ e o $\cos{\alpha}$ são positivos.
