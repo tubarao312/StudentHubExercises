@@ -5,4 +5,4 @@ B) $\large{\dfrac{3- \sqrt {2}}  {13}}$
 
 C) $\large{\dfrac{3- \sqrt {2}}  {5}}$
 
-D) $\large{\dfrac{1}  {\sqrt {2} -3}} $
+D) $\large{\dfrac{1}  {\sqrt {2} -3}}$

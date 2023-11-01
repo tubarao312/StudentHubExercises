@@ -4,6 +4,6 @@ $m_r \times m_s =-1$
 
 $-\dfrac{4k}{3} \times -3 =-1$
 
-$ 4k =-1$
+$4k =-1$
 
-$ k =-\dfrac{1}{4}$
+$k =-\dfrac{1}{4}$

@@ -5,4 +5,4 @@ B) $\large{0}$
 
 C) $\large{1}$
 
-D) $\large{-\infty} $
+D) $\large{-\infty}$

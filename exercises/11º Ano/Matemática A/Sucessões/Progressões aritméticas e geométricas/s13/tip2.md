@@ -1,1 +1,1 @@
-$\textrm{Logo temos } u_{60}+u_{174}=8 \to u_{117} + u_{117} = 8 $
+$\textrm{Logo temos } u_{60}+u_{174}=8 \to u_{117} + u_{117} = 8$

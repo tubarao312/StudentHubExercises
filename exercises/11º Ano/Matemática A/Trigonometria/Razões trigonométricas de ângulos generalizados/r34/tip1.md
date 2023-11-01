@@ -8,4 +8,4 @@ $2-2 \leq 2+2\cos{x} \leq 2+2, \forall x \in R$
 
 $0 \leq 2+2\cos{x} \leq 4, \forall x \in R$
 
-$ [0;4]$
+$[0;4]$

@@ -5,4 +5,4 @@ B) $\large{0}$
 
 C) $\large{2\sqrt{2}}$
 
-D) $\large{2} $
+D) $\large{2}$

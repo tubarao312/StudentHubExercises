@@ -5,4 +5,4 @@ B) $\large{{u} _ {n} =(- \dfrac{1} {4} ) ^ {n-9}}$
 
 C) $\large{{u} _ {n} =(- \dfrac{1} {16} ) ^ {n+7}}$
 
-D) $\large{ {u} _ {n} =(- \dfrac{1} {4} ) ^ {n+7}} $
+D) $\large{ {u} _ {n} =(- \dfrac{1} {4} ) ^ {n+7}}$
