@@ -1,0 +1,1 @@
+$\tan(\hat{CAB}) = \dfrac{8}{6} = \dfrac{4}{3}$

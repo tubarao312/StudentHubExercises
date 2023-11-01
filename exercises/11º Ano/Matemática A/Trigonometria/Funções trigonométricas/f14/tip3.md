@@ -1,0 +1,1 @@
+$\dfrac{\pi}{2}+\dfrac{2\pi}{3}=\dfrac{7\pi}{6}$

@@ -1,0 +1,1 @@
+$\dfrac{π}{\dfrac{π} {3}} = \dfrac{180°} {x} \rightarrow x= \dfrac{\dfrac{π}{3} ×180} {π} \rightarrow =60°$

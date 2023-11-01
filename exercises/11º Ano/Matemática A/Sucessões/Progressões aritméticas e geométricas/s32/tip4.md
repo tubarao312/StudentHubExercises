@@ -1,0 +1,1 @@
+$S_{61}-S_{11}=\dfrac{\dfrac{1}{4}+\dfrac{181}{4}}{2}\times 61 - \dfrac{\dfrac{1}{4}+\dfrac{31}{4}}{2}\times 11 =\dfrac{5727}{4}$

@@ -1,0 +1,1 @@
+$\lim \dfrac{n (\dfrac{\sin  (\pi n )} {n} - \dfrac{\sqrt {n}}  {n} )}  {n (1+ \dfrac{2}  {n} )}=\lim \dfrac{\dfrac{\sin  (\pi n  )} {n} - \sqrt {\dfrac{n} {{n} ^ {2}}}} {1+ \dfrac{2} {n}} =\lim \dfrac{\dfrac{\sin  (\pi n )} {n} - \sqrt {\dfrac{1} {n}}} {1+ \dfrac{2} {n}}$

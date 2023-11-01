@@ -1,0 +1,1 @@
+A equação tem duas soluções em $[0; 2\pi[$

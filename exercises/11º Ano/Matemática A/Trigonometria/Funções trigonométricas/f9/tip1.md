@@ -1,0 +1,1 @@
+$\cos {(\dfrac{\pi}{2} +x)} =\sin{x}- \sin{(- \dfrac{\pi} {2} +x )} = \sin {(\dfrac{\pi}{2} +x)} =\cos{x}$

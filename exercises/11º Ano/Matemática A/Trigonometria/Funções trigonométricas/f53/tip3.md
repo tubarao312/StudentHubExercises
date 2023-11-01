@@ -1,0 +1,1 @@
+O perímetro do triângulo [ABC] =  $4 \sqrt {6} +3\sqrt{8}$

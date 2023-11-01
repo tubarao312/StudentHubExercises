@@ -1,0 +1,1 @@
+$\textrm{Logo a sucessão é monótona crescente}$

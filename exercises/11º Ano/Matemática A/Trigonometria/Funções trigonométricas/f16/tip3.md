@@ -1,0 +1,1 @@
+No intervalo,$]\dfrac{3\pi}{2},2\pi[$ $\cos{x}$  é positivo e $\sin{x}$  é negativo.Logo, a resposta correta é a B.

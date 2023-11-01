@@ -1,0 +1,1 @@
+A afirmação verdadeira é a B dado que no 4º Quadrante o $\cos{\alpha}$  é crescente.

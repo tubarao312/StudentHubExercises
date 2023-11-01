@@ -1,0 +1,1 @@
+$-\dfrac{\cos{\alpha}\sin{\alpha}+\sin{\alpha}}{\cos{\alpha}}$

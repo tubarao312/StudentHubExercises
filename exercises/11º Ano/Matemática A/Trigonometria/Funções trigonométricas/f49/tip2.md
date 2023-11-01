@@ -1,0 +1,1 @@
+$\tan{(2 \times \dfrac{5\pi}{8})}=1$ é a única solução possível

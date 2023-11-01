@@ -1,0 +1,1 @@
+${A} _ {trapézio} = \dfrac{\sin ^ {3} (\alpha)}{2\cos(\alpha)} = \dfrac{{\sin(60 °)} ^ {3}} {2×cos(60 °)} = \dfrac{(\dfrac{\sqrt{3}}{2})^3}{2 \times \dfrac{1}{2}}=\dfrac{3\sqrt{3}}{8}$

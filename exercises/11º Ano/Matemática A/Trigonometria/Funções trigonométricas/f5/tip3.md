@@ -1,0 +1,1 @@
+Assim, no intervalo $[0,12\pi]$ , a equação tem  soluções $3 \times 6 = 18$ soluções, como $12\pi$ também é uma solução existem 19 soluções

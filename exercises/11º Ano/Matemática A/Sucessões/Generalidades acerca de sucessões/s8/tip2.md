@@ -1,0 +1,1 @@
+$\textrm{Como}$ $u_3<u_1<u_2$ $\textrm{, (un) é não monótona}$

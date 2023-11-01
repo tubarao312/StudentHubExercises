@@ -1,0 +1,1 @@
+$-\sin(x+ \dfrac{5π}{2}) +\cos(x-π ) +\sin(\dfrac{7π}{2} +x) =-\sin(x+ \dfrac{3π}{2} + \dfrac{2π}{2}) -\cos(x)+\sin(\dfrac{4π}  {2} + \dfrac{3π}  {2} +x )$

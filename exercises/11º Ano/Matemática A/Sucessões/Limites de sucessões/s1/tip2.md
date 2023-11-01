@@ -1,0 +1,1 @@
+Sabendo que $\lim{2}=2$ e que $\lim{(\dfrac{1}{2n})}=0$ pois n tende para mais infinito

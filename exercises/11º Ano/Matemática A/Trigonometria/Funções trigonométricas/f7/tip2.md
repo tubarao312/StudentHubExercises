@@ -1,0 +1,1 @@
+$\tan ^ {2} ({\alpha}) +1= \dfrac{1}{\cos^ {2} {(\alpha)}} \rightarrow \tan ^ {2} {(\alpha)} = \dfrac{4}{5}$

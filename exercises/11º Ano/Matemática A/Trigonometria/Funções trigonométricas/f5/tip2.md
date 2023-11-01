@@ -1,0 +1,1 @@
+No intervalo $[0,2\pi]$ , a equação tem três soluções: ${0, \dfrac{\pi}{2} ,\pi}$.

@@ -1,0 +1,1 @@
+$x+y=90º \rightarrow 3p-22+5p-12=90º \rightarrow 8p=144 \rightarrow p=\dfrac{31}{2}$

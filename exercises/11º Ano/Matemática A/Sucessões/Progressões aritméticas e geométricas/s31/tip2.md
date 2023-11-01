@@ -1,0 +1,1 @@
+$\textrm{Seja S a soma pedida, é dada por } S=S_{150}-S_{49}$

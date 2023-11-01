@@ -1,0 +1,1 @@
+$\lim \dfrac{n(1+ \dfrac{2} {n} )}  {n \sqrt {2+ \dfrac{1} {{n} ^ {2}}} +3n} = \lim \dfrac{n(1+ \dfrac{2} {n} )}  {n( \sqrt {2+ \dfrac{1} {{n} ^ {2}}} +3)} = \lim \dfrac{1+ \dfrac{2} {n}} {\sqrt {2+ \dfrac{1} {{n} ^ {2}}} +3}$

@@ -1,0 +1,1 @@
+Seja $x \in ]\pi, \dfrac{3\pi}{2}[$; tem-se que $\sin(x)<0$, $\cos(x)<0$ e que $\tan(x)>0$

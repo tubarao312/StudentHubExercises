@@ -1,0 +1,1 @@
+$\textrm{Por outro lado, temos que a sucessão  é uma progressão geométrica: } r= \large{\dfrac{{v}_ {n+1}}  {{v} _ {n}} = \dfrac{{2} ^ {- \sqrt {7 } {u} _ {n+1}}}  {{2} ^ {- \sqrt {7} {u}_ {n}}}1}$

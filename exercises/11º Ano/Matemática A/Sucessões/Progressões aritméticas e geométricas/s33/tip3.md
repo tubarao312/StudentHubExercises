@@ -1,0 +1,1 @@
+$u_{22}\leq 7 \iff u_1 + 21 \times \dfrac{1}{6} \leq 7 \iff u_1 \leq 3,5$

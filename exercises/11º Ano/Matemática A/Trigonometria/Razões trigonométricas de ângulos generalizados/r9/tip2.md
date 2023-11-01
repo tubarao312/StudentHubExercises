@@ -1,0 +1,1 @@
+Então $\cos{\beta}=\cos{(\pi-2\alpha)}=-\cos{2\alpha}$

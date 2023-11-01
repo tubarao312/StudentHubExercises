@@ -1,0 +1,1 @@
+$\forall n \in \N, a_{n+1} \geq a_n \iff \forall n \in \N a_{n+1}-a_n \geq 0$

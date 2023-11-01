@@ -1,0 +1,1 @@
+$A=\dfrac{b \times h}{2}=\dfrac{\bar{OR} \times y_P}{2}$

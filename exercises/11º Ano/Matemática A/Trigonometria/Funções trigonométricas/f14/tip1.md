@@ -1,0 +1,1 @@
+$\sin{\dfrac{\pi}{2}}=1$, logo $\arcsin{(1)}=\dfrac{\pi}{2}$

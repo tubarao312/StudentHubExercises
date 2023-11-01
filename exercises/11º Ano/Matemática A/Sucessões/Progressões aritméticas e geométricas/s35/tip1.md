@@ -1,0 +1,1 @@
+$\textrm{Sabemos que a sucessão un  é uma progressão aritmética de razão } \sqrt{7} \textrm{, portanto: } \forall n \in \N, u_{n+1}-u_n=\sqrt{7}$

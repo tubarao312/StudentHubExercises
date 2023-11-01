@@ -1,0 +1,1 @@
+$\lim {{u} _ {n}} =\lim \dfrac{\sin  (\pi n ) - \sqrt {n}} {n+2}$

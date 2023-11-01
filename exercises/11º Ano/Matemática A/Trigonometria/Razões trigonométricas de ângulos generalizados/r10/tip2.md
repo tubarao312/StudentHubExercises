@@ -1,0 +1,1 @@
+Logo apenas, $\sin{\theta} - \tan{\theta}$ é real e superior a zero.
