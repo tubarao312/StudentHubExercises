@@ -1,5 +1,5 @@
-## Considera O triângulo isósceles [ABC] em que $\bar{AB}=\bar{BC}=\sqrt{2}$ e $\hat{BAC}=75º$.
-## Qual é o valor de $\vec{BA} \cdot \vec{BC}$ ![Alt text](image-1.png)
+## Considera O triângulo isósceles [ABC] em que $\bar{AB}=\bar{BC}=\sqrt{2}$ e $\hat{BAC}=75^{\circ}$.
+## Qual é o valor de $\vec{BA} \cdot \vec{BC}$ ![la lune](image-1.png "Voyage to the moon")
 
 A) $\large{-\sqrt{2}}$
 

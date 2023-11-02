@@ -11,7 +11,7 @@ Como é uma equação impossivel todos os valores de y são positivos, visto ser
 Realiza um quadro de sinais para determinares quais valores de y são maiores do que 0.
 
 
-$
+$$
 \begin{array}{|c|c|c|c|c|c|c|c|}
 \hline
 \text{ }& -\infty  & -3 &   & 1 & &3 &+\infty\\
@@ -27,7 +27,7 @@ $
 P(x) & + &0 & - & 0& + &0 &- \\
 \hline
 \end{array}
-$
+$$
 
 Assim, podemos concluir que: 
 
