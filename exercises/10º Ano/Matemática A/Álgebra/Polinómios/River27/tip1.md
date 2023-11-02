@@ -1,0 +1,2 @@
+Utiliza o algoritmo de divisão para dividires o P(x) por $ x^{2}+3 $ 
+

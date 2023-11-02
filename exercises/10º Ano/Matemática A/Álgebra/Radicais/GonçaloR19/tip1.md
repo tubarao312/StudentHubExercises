@@ -1,0 +1,1 @@
+A opção correta é a opção D, pois $-\sqrt[4]{(-2)^2}$ equivale a $\sqrt{2}$ e $-\sqrt[4]{2^3}$ equivale a $-\sqrt[4]{8}$, então $\sqrt{2} > -\sqrt[4]{8}$ e porque $(-\sqrt[4]{(-2)^2})^3$ equivale a $-2\sqrt{2}$ e $(-\sqrt[4]{2^3})^3$ equivale a $-4\sqrt{2}$, então $-2\sqrt{2} > -4\sqrt{2}$.

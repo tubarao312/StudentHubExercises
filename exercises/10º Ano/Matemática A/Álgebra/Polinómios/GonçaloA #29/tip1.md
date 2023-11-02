@@ -1,0 +1,1 @@
+Utiliza o algoritmo de divisão para dividires o P(x) por $ x-\frac{1}{3} $
