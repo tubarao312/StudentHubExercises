@@ -1,0 +1,9 @@
+Error producing PDF.
+! LaTeX Error: Unicode character 𝑥 (U+1D465)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...}\{48\} - 2𝑥\^{}\{501\} por 𝑥 + 1.}}

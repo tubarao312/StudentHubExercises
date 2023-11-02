@@ -1,0 +1,9 @@
+Error producing PDF.
+! LaTeX Error: Unicode character ⊂ (U+2282)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 ...sh cup B)=\textbackslash dfrac\{1\}\{5\}}}

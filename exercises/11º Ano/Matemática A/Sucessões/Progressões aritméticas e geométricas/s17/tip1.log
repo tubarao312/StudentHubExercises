@@ -1,0 +1,16 @@
+Error producing PDF.
+! File ended while scanning use of \textrm .
+<inserted text> 
+                \par 
+<*> ...000gp/T/tex2pdf.-058f5e9e20fc1952/input.tex
+                                                   
+Here is how much of TeX's memory you used:
+ 12443 strings out of 477476
+ 197832 string characters out of 5824243
+ 1849388 words of memory out of 5000000
+ 32481 multiletter control sequences out of 15000+600000
+ 536691 words of font info for 73 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 77i,4n,81p,1085b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -23,7 +23,13 @@ while IFS= read -r -d '' file; do
     # Check if ${img}.png exists in the same directory
     if [ ! -f "$(dirname "$file")/${img}.png" ]; then
         # Run the pandoc command
-        pandoc -V pagestyle:empty -o "$(dirname "$file")/${img}.pdf" "$file"
+        output=$(pandoc -V pagestyle:empty -o "$(dirname "$file")/${img}.pdf" "$file" 2>&1)
+        
+        # Check for error message:
+        if [ -n "$output" ]; then
+            # Store the error message in a log file on the same directory
+            echo "$output" > "$(dirname "$file")/${img}.log"
+        fi
     fi
 done
 
