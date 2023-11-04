@@ -6,14 +6,16 @@ import random
 from PIL import Image
 import numpy as np
 from json import dump
+from requests import get 
+from bs4 import BeautifulSoup
+import subprocess
+
+# TODO: USE CMD ARGS TO GET THE PDF PATHS AND OPTIONS
 
 s = string.ascii_lowercase + string.ascii_uppercase
 
 # Get the directory of the script
 script_directory = os.path.dirname(os.path.realpath(__file__))
-
-exercises_pdf_path = "sucessoes.pdf"
-solutions_pdf_path = "sucessoes_resol.pdf"
 
 def find_expression_positions(pdf_path, expression):
     with fitz.open(pdf_path) as doc:
@@ -81,7 +83,6 @@ def get_positions(pdf_path):
 
     """
     Sort the positions by page number and y0 coordinate
-    TODO: First exercise wont be extracted, I need to find a way to get the upper margin of the first exercise (use the first appearence of 1.?)
     """
 
     positions = sorted(positions_below_header + expression_positions, key=lambda x: (x["page"], x["y0"]))
@@ -106,7 +107,7 @@ def get_bounding_boxes(pdf_path):
             page = doc[pos["page"] - 1]
 
             x0, x1 = 0, int(page.bound().width)
-            y0, y1 = int(min(pos["y1"], next_pos["y0"])), int(max(pos["y1"], next_pos["y0"]))
+            y0, y1 = int(min(pos["y1"], next_pos["y0"])), int(max(pos["y0"], next_pos["y1"]))
 
             bboxes.append({
                 "x0": x0,
@@ -175,7 +176,7 @@ def get_answer(pdf_path):
         opt2, opt3, opt4 = random.sample(l, 3)
         answer_jsons.append({
             "author": "Python",
-            "difficulty": "CHANGE THIS",
+            "difficulty": 2,
             "answers" : [
                 answer,
                 opt2,
@@ -186,26 +187,74 @@ def get_answer(pdf_path):
 
     return answer_jsons
 
-exercises_images = map(Image.fromarray, extract_images(exercises_pdf_path))
-solutions_images = map(Image.fromarray, extract_images(solutions_pdf_path))
-answers = get_answer(solutions_pdf_path)
+def get_pdf_links_from_page(url):
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+    _class = "btn btn-small btn-primary btn-sm"
+   
+    response = get(url, headers=headers)
+    html_soup = BeautifulSoup(response.text, 'html.parser')
 
-for i, (ex, sol, ans) in enumerate(zip(exercises_images, solutions_images, answers)):
-    if not ans:
-        continue
+    # Extract all buttons
+    buttons = html_soup.find_all("a", class_=_class)
 
-    rand_string = "".join(random.choices(s, k=10))
-    folder_name = f"ex_{rand_string}"
-    folder_path = os.path.join(script_directory, folder_name)
+    # Extract name and link to pdf
+    links = []
+    for button in buttons:
+        if "recursos/exames" in button["href"]:
+            continue # skip exams
 
-    # Use os.makedirs() to create the folder
-    os.makedirs(folder_path, exist_ok=True)
+        links.append({
+            "name": button.text,
+            "link": "https://mat.absolutamente.net" + button["href"]
+        })
 
-    # Save the images and the json in the created folder
-    ex.save(os.path.join(folder_path, "question.png"))
-    sol.save(os.path.join(folder_path, "tip1.png"))
+    return links
 
-    with open(os.path.join(folder_path, "info.json"), "w") as f:
-        dump(ans, f, indent=4)
+def scrape_exercises(url):
+    links = get_pdf_links_from_page(url)
 
-    print(f"Created folder {folder_name}")    
+    for i in range(len(links)-1):
+        exercises = links[i]
+        solutions = links[i+1]
+
+        # download the pdfs
+        exercises_pdf_path = os.path.join(script_directory, "exercises.pdf")
+        solutions_pdf_path = os.path.join(script_directory, "solutions.pdf")
+
+        subprocess.run(["wget", exercises['link'], "-O", "exercises.pdf"])
+        subprocess.run(["wget", solutions['link'], "-O", "solutions.pdf"])
+
+        exercises_images = map(Image.fromarray, extract_images("exercises.pdf"))
+        solutions_images = map(Image.fromarray, extract_images("solutions.pdf"))
+        answers = get_answer("solutions.pdf")
+
+        # Delete the pdfs
+        os.remove(exercises_pdf_path)
+        os.remove(solutions_pdf_path)
+
+        # Create exercisegroup folder
+        folder_path = os.path.join(script_directory, exercises["name"])
+        os.makedirs(folder_path, exist_ok=True)
+
+        # Save the images inside the created folder
+        for exercise_image, solution_image, answer in zip(exercises_images, solutions_images, answers):
+            if not answer:
+                continue
+
+            # Create a random name for the exercise folder
+            exercise_folder_name = "".join(random.sample(s, 10))
+            exercise_folder_path = os.path.join(folder_path, exercise_folder_name)
+
+            # Create the exercise folder
+            os.makedirs(exercise_folder_path, exist_ok=True)
+
+            # Save the exercise and solution images
+            exercise_image.save(os.path.join(exercise_folder_path, "question.png"))
+            solution_image.save(os.path.join(exercise_folder_path, "tip1.png"))
+
+            # Save the answer json
+            with open(os.path.join(exercise_folder_path, "info.json"), "w") as f:
+                dump(answer, f)
+
+if __name__ == "__main__":
+    scrape_exercises("https://mat.absolutamente.net/joomla/index.php/recursos/fichas-de-trabalho/matematica-a")
