@@ -1,0 +1,1 @@
+Utiliza o algoritmo de divisão para dividires o P(x) por $ 2x+1 $

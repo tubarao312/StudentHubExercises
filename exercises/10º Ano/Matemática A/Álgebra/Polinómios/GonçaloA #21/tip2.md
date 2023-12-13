@@ -1,0 +1,7 @@
+Após a realização da divisão pode-se concluir que: 
+
+- O Resto da divisão inteira do polinómio P(x) por $ x^{3}-2x $ é igual a $ 2x^{2} +4x-2 $
+
+- O Quociente da divisão inteira do polinómio P(x) por $ x^{3}-2x $ é igual a $ x^{2}+x+2   $
+
+Desta forma concluímos que a opção certa é a B)
